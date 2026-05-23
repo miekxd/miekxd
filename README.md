@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mike Nguyen
 
-<!--
-**miekxd/miekxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer building LLM systems, RAG pipelines, and agentic workflows. Currently doing a Master's in AI at UTS, Sydney.
 
-Here are some ideas to get you started:
+Born in HCMC, studied in Singapore, landed in Sydney.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- **[SEC Insider Trading Detector](https://insider.autonomike.com)**: Automated EDGAR Form 4 monitor with multi-factor scoring across insider history, role seniority, earnings proximity, and market sentiment. 160+ positions tracked, ~15% avg PnL.
+- **GrowthOS Knowledge MCP**: FastMCP server for Claude that drops new learnings into a second-brain knowledge base. Hybrid vector + keyword retrieval across 500+ items.
+- **[Slay the Semester](https://slaythesemester.autonomike.com)**: Slay the Spire-inspired gamified assessment platform built at the Cambridge x Incubed EduTech Hackathon. Collect cards by mastering concepts, spend your deck on boss battle exams.
+
+## Stack
+
+`Python` `TypeScript` `LangChain` `FastAPI` `Azure OpenAI` `MCP` `RAG` `React` `Next.js` `Supabase` `Docker`
+
+## Contact
+
+mike.nguyen0105@gmail.com · [LinkedIn](https://linkedin.com/in/mike-nguyen-88b304218) · Sydney, AU
