@@ -1,9 +1,3 @@
-<div align="center">
-
-![Typing](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1200&color=00E5FF&center=true&width=500&lines=AI+Engineer;LLM+systems+%C2%B7+RAG+%C2%B7+MCP;Sydney%2C+AU)
-
-</div>
-
 # Mike Nguyen
 
 AI Engineer building LLM systems, RAG pipelines, and agentic workflows. Currently doing a Master's in AI at UTS, Sydney.
@@ -24,20 +18,6 @@ Born in HCMC, studied in Singapore, landed in Sydney.
 
 </div>
 
-## Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=miekxd&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miekxd&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=miekxd&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
